@@ -1,0 +1,170 @@
+/* ******************************* */
+/* config universal selector */
+* {
+  padding: 0;
+  margin: 0;
+
+}
+/* ******************************* */
+
+/* ******************************* */
+/* config root */
+:root {
+  color: #333333;
+  font-family: "Open Sans", sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: auto;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* Geral config body html */
+body {
+  background-color: #F5F4F0;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* Geral config page */
+#page {
+  width: 1120px;
+  margin: 88px auto;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* config IMG page */
+/* border image description hipertext 1 */
+#description img {
+  border-radius: 28px;
+  margin-top: 40px;
+  margin-bottom: 24px;
+}
+/* border imagelist One */
+aside #cardtravelone img {
+  border-radius: 28px;
+}
+/* border imagelist Two */
+aside #cardtraveltwo img {
+  border-radius: 28px;
+}
+/* border imagelist Tree */
+aside #cardtraveltree img {
+  border-radius: 28px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* config hadline and subtitle page */
+.headline {
+  font-weight: bold;
+  margin-top: 64px;
+  text-transform: uppercase;
+  color: #E1624F;
+}
+#subtitle {
+  font-style: italic;
+  text-align: center;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* config fonts size and weight the page */
+header, h4 {
+  margin-bottom: 4px;
+}
+h1, h2, h3 {
+  color:#1B1B1B ;
+  font-weight: bold;
+}
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 28px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* setting the paragraph margin of the title list section */
+#titlelist p {
+  margin-bottom: 64px;
+  margin-top: 8px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* configuration margins the section list itens */
+#cardtravelone img, #cardtraveltwo img, #cardtraveltree img {
+  margin-bottom: 20px;
+}
+#cardtravelone p, #cardtraveltwo p, #cardtraveltree p {
+  margin-top: 4px;
+}
+#cardtraveltwo img, #cardtraveltree img {
+  margin-top: 48px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* color font and weight the item lists */
+ul {
+  font-weight: bolder;
+}
+
+ul .history {
+  color: #0C51A7;
+}
+
+ul #couple {
+  color: #591B98;
+}
+
+ul #family {
+  color: #E5245E;
+}
+
+ul #budget {
+  color: #E95E10;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* configuration padding item lists*/
+li {
+  margin-left: 30px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* configuration line (div description and main) */
+hr {
+  margin-top: 40px;
+  color: #D9D9D9;
+  text-align: center;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* configuration of paragraph the bottom page   */
+#bottompage {
+  text-align: center;
+  margin-top: 40px;
+}
+/* ******************************* */
+
+/* ******************************* */
+/* configuration footer  */
+footer p {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+footer img {
+  vertical-align: middle;
+}
+/* ******************************* */
