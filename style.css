@@ -30,6 +30,10 @@ body {
 #page {
   width: 1120px;
   margin: 88px auto;
+
+  @media (width >= 31.25em) {
+    max-width: 19.5rem;
+  }
 }
 /* ******************************* */
 
